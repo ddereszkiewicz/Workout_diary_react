@@ -1,4 +1,4 @@
 # Workout_diary_react
-## description
-Project made for Frontend Development class at the University. 
+### Description
+Project made for a Frontend Development class at the University. 
 
